@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I am Gaurav 👋 <img src="https://camo.githubusercontent.com/b0fa06ee100360ae8811a115c133de7848891e3b/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966" width="100" height="100" />
+## About Me:  ::stuck_out_tongue_winking_eye:
+
+
 
 <!--
 **kgaurav123/kgaurav123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
