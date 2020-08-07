@@ -1,7 +1,9 @@
 ### Hi there, I am Gaurav 👋 <img src="https://camo.githubusercontent.com/b0fa06ee100360ae8811a115c133de7848891e3b/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966" width="100" height="100" />
 ## About Me:stuck_out_tongue_winking_eye:
-<img src="https://66.media.tumblr.com/4690794238b42872f68bc14feab59e28/tumblr_piaz0v3xVn1uphxvgo1_500.gif" height="auto" width="400">
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/j-tesla/count.svg" />
+</p>
 
 
 <!--
