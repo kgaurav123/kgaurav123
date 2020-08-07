@@ -2,7 +2,7 @@
 ## About Me:stuck_out_tongue_winking_eye:
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/j-tesla/count.svg" />
+  <img src="https://profile-counter.glitch.me/kgaurav123/count.svg" />
 </p>
 
 
